@@ -1,0 +1,2 @@
+text2 dosya içeriği eklendi.
+Bu da ikinci mesaj.
